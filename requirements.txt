@@ -1,0 +1,4 @@
+openCV-python
+pillow
+numpy
+moviepy
